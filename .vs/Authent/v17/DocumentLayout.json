@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Authent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\areas\\identity\\pages\\account\\ajouteruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\areas\\identity\\pages\\account\\ajouteruser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\areas\\identity\\pages\\account\\ajouteruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\areas\\identity\\pages\\account\\ajouteruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\views\\roles\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\views\\roles\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\views\\roles\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\views\\roles\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\views\\roles\\editor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\views\\roles\\editor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|c:\\users\\dell\\source\\repos\\authent\\authent\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{59646A45-D767-4F81-8FF3-C3972AF368B0}|Authent\\Authent.csproj|solutionrelative:authent\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1646721036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjouterUser.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml.cs",
+              "RelativeDocumentMoniker": "Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml.cs",
+              "RelativeToolTip": "Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml.cs",
+              "ViewState": "AgIAAF4AAACAkJmZmZkewHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:29:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Authent\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:56:23.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Authent\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:49:37.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:44:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Authent\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Authent\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:48:52.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Authent\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAcwIkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:48:30.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AjouterUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml",
+              "RelativeToolTip": "Authent\\Areas\\Identity\\Pages\\Account\\AjouterUser.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T21:28:53.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "Authent\\Views\\Roles\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Admin.cshtml.cs",
+              "RelativeToolTip": "Authent\\Views\\Roles\\Admin.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAlZmZmZkdwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:49:09.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Views\\Roles\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Admin.cshtml",
+              "RelativeToolTip": "Authent\\Views\\Roles\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAACAmpmZmdkhwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:46:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "Authent\\Controllers\\RedirectController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "Authent\\Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:38:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Authent\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Authent\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAoAAACwzMzMzEwnwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:38:06.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Editor.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Editor.cshtml",
+              "RelativeDocumentMoniker": "Authent\\Views\\Roles\\Editor.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Views\\Roles\\Editor.cshtml",
+              "RelativeToolTip": "Authent\\Views\\Roles\\Editor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:37:43.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Program.cs",
+              "RelativeDocumentMoniker": "Authent\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\Program.cs",
+              "RelativeToolTip": "Authent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:48:18.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Authent\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Authent\\Authent\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Authent\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T06:44:02.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
